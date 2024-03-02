@@ -8,3 +8,4 @@ i used following technologies they are
 -tailwind css as css framwork
 -javascript
 -vite 
+the project link is https://todolist-8qbkf44ap-kirans-projects-03c5150f.vercel.app/
